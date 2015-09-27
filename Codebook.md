@@ -20,5 +20,3 @@ The data describes observation in six categorical activities:
 6. LAYING (value 6): subject was laying down during the test
 
 The data includes only data regarding the mean or stdv of observations
-
-The included variables are 
